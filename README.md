@@ -10,3 +10,9 @@ git clone https://github.com/Termux-Tools-ExecNoxx/RansomwareGenerator
 cd RansomwareGenerator
 bash bash.setup build
 bash bash.setup run
+
+bahasa skrip : bash, framework : bash-id from : pejuang kentang
+
+Credits : 
+#AndraxC2 #F.T.A { Community }
+Join Channel : https://whatsapp.com/channel/0029VbBEZSACcW4qvtd3ev2e
